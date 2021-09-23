@@ -1,2 +1,2 @@
 # Genome_annotation
- 
+The goal of this project is to annotate the genome structure in Arctostaphylos glauca and compare it with other species in Ericaceae family. This repository contains the scripts I have used to annotate that genome for both genes and putative transposable elements, and finally to conduct a synteny anlysis of this genome with other genome plants. This project has been presented in Botany 2021 conference, and the slides for that presentation is included in this repository too. 
